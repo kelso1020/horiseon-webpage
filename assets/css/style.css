@@ -140,6 +140,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+/* changed footer h2 to h4 for more direct styling path */
+h4 {
     font-size: 20px;
 }

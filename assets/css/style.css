@@ -72,7 +72,8 @@ p {
     margin-left: 25px;
 }
 
-.content {
+/* renamed from div class content */
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -149,29 +150,13 @@ h3 {
     background-color: #0072bb;
 }
 
-.search-engine-optimization img {
+/* removed img class to condense code */
+section img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+/* removed uneccessary classes from h2 elements */
+h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }

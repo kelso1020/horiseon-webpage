@@ -91,17 +91,11 @@ aside {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+/* condensed classes */
+.benefits {
     margin-bottom: 32px;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-}
 
 /* removed benefit class*/
 h3 {
